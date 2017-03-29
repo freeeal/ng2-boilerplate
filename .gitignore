@@ -1,1 +1,5 @@
+# Dependency directory
 node_modules
+
+# Users Environment Variables
+.DS_Store
